@@ -1,6 +1,6 @@
 # SAF CTF — Complete Writeup
 
-**Author:** DevKorrir (korryrdev)  
+**Author:** pk0n3z  
 **Date:** October 2026  
 **Platform:** SAF CTF (Assurance CTF Prod) — `54.72.82.22`, one challenge per port  
 **Format:** Jeopardy-style  
@@ -2028,5 +2028,5 @@ When multiple independent data sources all converge on one unique answer, you've
 
 *"The best way to learn security is to break things — in a lab, with permission, with curiosity."*
 
-**Author:** DevKorrir — Final-year CS Student, Meru University of Science and Technology  
+**Author:** pk0n3z — Student, Meru University of Science and Technology  
 **Community:** Android-Community-MUST
