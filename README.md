@@ -159,7 +159,7 @@ The full, unabridged writeup with step-by-step payloads, source code diffs, root
 ## 👤 Author & Team
 
 - **Author:** **pk0n3z**
-- **Role:** Final-year Computer Science Student, *Meru University of Science and Technology (MUST)*
+- **Role:** Third-year Student, *MUST*
 - **Community:** **Android-Community-MUST**
 - **CTF Team:** **MYTHICAL**
 
